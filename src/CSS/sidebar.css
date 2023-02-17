@@ -1,0 +1,31 @@
+.sidebar{
+    background-color: rgb(248, 246, 244);
+    height: auto;
+    width: 20%;
+    box-shadow: 0px 0px 2px 0px rgb(122, 119, 119);
+}
+.sidebar-list{
+    margin-left: 0px;
+    padding: 50px;
+}
+.sidebar-list .tag ul{
+    font-size: 2rem;
+    list-style-type: none;
+}
+.side-links{
+    color: black;
+    text-decoration: none;
+    line-height:4rem;
+}
+.sidebar-list .title-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem !important;
+    font-weight:  normal;
+}
+.sidebar-list .all{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.sidebar-list .tag ul{
+    margin-bottom: 50px;
+}

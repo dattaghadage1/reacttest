@@ -1,0 +1,32 @@
+.navbar{
+    height: 8rem;
+    background-color:#ECECEC;
+    display: flex;
+    justify-content: space-between;
+    /* F8F7F7 */
+}
+.nav-links ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    font-size: 2.1rem;
+    gap: 30px;
+}
+.nav-links ul li .links {
+    color:black;
+    border: none;
+    text-decoration: none;  
+}
+.cart-logo{
+    position: relative;
+    top: 0px;
+    right: 45px;
+}
+.cart-product{
+    position: relative;
+    bottom: 20px;
+    left: 7px;
+    font-size: 3rem;
+    
+}
+
